@@ -24,5 +24,8 @@ demo/bin/*
 *.idb
 *.exp
 
+# SCons cache
+.scons_cache*
+
 # Other stuff
 *.log
